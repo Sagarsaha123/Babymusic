@@ -72,13 +72,13 @@ STRING5 = getenv("STRING_SESSION5", None)
 BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
-votemode = {}
+votemode
 autoclean = []
 confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/25efe6aa029c6baea73ea.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/b69c1de5045f24ad74abc.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/f318a11905c2430be1ca1.jpg.jpg"
